@@ -2,4 +2,4 @@
 
 Code to simulate double to n-pendulum systems and display their motion
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/CosmicRay11/Pendulums/blob/master/pendulum2_image.PNG?raw=true)
