@@ -1,4 +1,4 @@
-#pygame template
+#n - pendulum systems
 
 import pygame
 import sys
